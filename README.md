@@ -23,11 +23,11 @@ A few pieces from my workbench. Follow a project to explore the code.
 
 | Project | The idea | Language |
 | :--- | :--- | :--- |
-| [**PocketBudget ↗**](https://github.com/ptr-void/PocketBudget) | A budgeting companion for expenses and financial goals. | JavaScript |
-| [**MemoryScanner ↗**](https://github.com/ptr-void/MemoryScanner) | A memory inspection and debugging utility for running processes. | C++ |
-| [**CampusConnect ↗**](https://github.com/ptr-void/CampusConnect) | A campus portal for student services, announcements, and community activities. | TypeScript |
-| [**CAF-Connect ↗**](https://github.com/ptr-void/CAF-Connect) | A community hub for collaboration, communication, and campus activities. | TypeScript |
-| [**KeyVault ↗**](https://github.com/ptr-void/KeyVault) | A workspace for organizing credentials and account details. | TypeScript |
+| [**PocketBudget**](https://github.com/ptr-void/PocketBudget) | A budgeting companion for expenses and financial goals. | JavaScript |
+| [**MemoryScanner**](https://github.com/ptr-void/MemoryScanner) | A memory inspection and debugging utility for running processes. | C++ |
+| [**CampusConnect**](https://github.com/ptr-void/CampusConnect) | A campus portal for student services, announcements, and community activities. | TypeScript |
+| [**CAF-Connect**](https://github.com/ptr-void/CAF-Connect) | A community hub for collaboration, communication, and campus activities. | TypeScript |
+| [**KeyVault**](https://github.com/ptr-void/KeyVault) | A workspace for organizing credentials and account details. | TypeScript |
 
 ## 03 / Leave a note
 
@@ -35,19 +35,5 @@ Have something to share? Find me here:
 
 **Personal** → [jayyantiongzon123@gmail.com](mailto:jayyantiongzon123@gmail.com)<br>
 **University** → [jayyan.tiongzon@cit.edu](mailto:jayyan.tiongzon@cit.edu)
-
-<details>
-<summary>A scrap from the old terminal</summary>
-
-```text
-$ cat /root/.spawn
-09/11: memorable seed, chaotic lore.
-
-$ systemctl status curiosity
-● curiosity.service: Never stop learning
-  Loaded: loaded    Active: active (running)
-```
-
-</details>
 
 ![Stay curious. Keep building.](./assets/footer.svg)
