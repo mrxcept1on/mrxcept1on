@@ -2,6 +2,8 @@
 
 **4th-year BSIT student** / Cebu Institute of Technology – University
 
+## 01 / Behind the scraps
+
 Hey, I'm **mrxception**. I enjoy coding and exploring offensive security, including game hacking, web security, penetration testing, and red-team labs.
 
 This is my little corner for building things, following questions, and figuring out how systems work.
@@ -10,10 +12,11 @@ This is my little corner for building things, following questions, and figuring 
 
 <img src="./assets/field-notes.svg" alt="Field notes: Bachelor of Science in Information Technology at Cebu Institute of Technology – University, 4th year. Building, learning, and debugging." width="100%" />
 
-<img src="./assets/contact-heading.svg" alt="Leave a note. Have something to share? Find me here." width="100%" />
+## 02 / Leave a note
 
-<a href="mailto:jayyantiongzon123@gmail.com"><img src="./assets/contact-personal.svg" alt="Personal email: jayyantiongzon123@gmail.com" width="100%" /></a>
+Have something to share? Find me here:
 
-<a href="mailto:jayyan.tiongzon@cit.edu"><img src="./assets/contact-university.svg" alt="University email: jayyan.tiongzon@cit.edu" width="100%" /></a>
+**Personal** → [jayyantiongzon123@gmail.com](mailto:jayyantiongzon123@gmail.com)<br>
+**University** → [jayyan.tiongzon@cit.edu](mailto:jayyan.tiongzon@cit.edu)
 
 ![Stay curious. Keep building.](./assets/footer.svg)
