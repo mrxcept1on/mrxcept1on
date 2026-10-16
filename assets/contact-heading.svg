@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132" role="img" aria-labelledby="title desc">
+  <title id="title">Leave a note</title>
+  <desc id="desc">Have something to share? Find me here.</desc>
+  <defs><pattern id="grain" width="73" height="51" patternUnits="userSpaceOnUse"><path d="m8 11 7-2m35 27 8 2m9-29 3 4M18 44l6-2" stroke="#5f594a" stroke-width=".8" opacity=".13" fill="none"/></pattern></defs>
+  <path d="M0 10 58 4 121 11 186 3 251 12 316 5 383 13 449 3 517 11 584 4 652 12 718 3 786 11 852 4 919 12 986 3 1054 10 1120 3 1193 12 1199 117 1136 126 1069 118 1002 127 935 119 868 126 801 118 734 127 667 119 600 127 533 118 466 126 399 118 332 127 265 119 198 126 131 118 64 127 0 118Z" fill="#eae3d5"/>
+  <path d="M8 15H1187V117H8Z" fill="url(#grain)"/>
+  <path d="M25 28 89 22 151 28 217 21 283 28 350 22 416 29 483 23 548 30 628 23 625 105 559 110 494 104 428 111 361 104 296 111 229 103 162 110 95 104 26 111Z" fill="#ffda43"/>
+  <text x="48" y="89" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="900" letter-spacing="-2" fill="#181916">LEAVE A NOTE</text>
+  <text x="746" y="57" font-family="'Courier New', monospace" font-size="23" font-weight="700" fill="#292a25">Have something to share?</text>
+  <text x="746" y="91" font-family="'Courier New', monospace" font-size="23" fill="#292a25">Find me here.</text>
+  <path d="M744 105H1150" stroke="#194df4" stroke-width="3"/>
+</svg>

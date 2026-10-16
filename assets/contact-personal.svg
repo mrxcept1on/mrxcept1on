@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="148" viewBox="0 0 1200 148" role="img" aria-labelledby="title desc">
+  <title id="title">Personal email</title>
+  <desc id="desc">jayyantiongzon123@gmail.com. Select this card to write an email.</desc>
+  <defs><pattern id="grid" width="27" height="27" patternUnits="userSpaceOnUse"><path d="M27 0H0V27" fill="none" stroke="#413e34" stroke-width="1" opacity=".08"/></pattern><pattern id="grain" width="91" height="63" patternUnits="userSpaceOnUse"><path d="m8 12 7-2m49 29 10 2m13-29 4 3M15 55l6-3m48 3 8-2" stroke="#514d42" stroke-width=".8" opacity=".13" fill="none"/></pattern></defs>
+  <path d="M4 16 66 9 130 17 195 8 261 16 327 10 395 18 461 9 530 17 597 8 663 16 731 10 798 18 865 9 932 16 1000 8 1067 17 1134 10 1197 18 1199 133 1138 142 1071 134 1004 143 937 135 870 142 803 134 736 143 669 135 602 142 535 134 468 143 401 135 334 142 267 134 200 143 133 135 66 142 0 134Z" fill="#242622"/>
+  <path d="M0 7 62 0 126 8 191 0 257 7 323 1 391 9 457 0 526 8 593 0 659 7 727 1 794 9 861 0 928 7 996 0 1063 8 1130 1 1193 9 1195 124 1134 133 1067 125 1000 134 933 126 866 133 799 125 732 134 665 126 598 133 531 125 464 134 397 126 330 133 263 125 196 134 129 126 62 133 0 125Z" fill="#f4efe3"/>
+  <path d="M8 14H1186V121H8Z" fill="url(#grid)"/>
+  <path d="M8 14H1186V121H8Z" fill="url(#grain)"/>
+  <g transform="rotate(-1.4 135 69)"><path d="M15 22 65 16 117 21 171 15 222 22 253 17 250 113 198 119 145 113 94 120 42 113 15 119Z" fill="#194df4"/><text x="37" y="67" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900" fill="#fff8e8">PERSONAL</text><text x="38" y="95" font-family="'Courier New', monospace" font-size="20" font-weight="700" fill="#e3eaff" letter-spacing="3">EMAIL</text></g>
+  <text x="286" y="84" font-family="'Courier New', monospace" font-size="44" font-weight="700" letter-spacing="-1" fill="#20221e">jayyantiongzon123@gmail.com</text>
+  <path d="M287 104Q686 99 1102 105" fill="none" stroke="#194df4" stroke-width="3"/>
+  <path d="M1116 7 1177 2 1181 36 1120 41Z" fill="#d0c7b0" opacity=".65"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="148" viewBox="0 0 1200 148" role="img" aria-labelledby="title desc">
+  <title id="title">University email</title>
+  <desc id="desc">jayyan.tiongzon@cit.edu. Select this card to write an email.</desc>
+  <defs><pattern id="grain" width="101" height="73" patternUnits="userSpaceOnUse"><path d="m9 13 8-2m55 30 10 2m13-31 4 3M15 65l7-3m51-3 8-2" stroke="#9f9f91" stroke-width=".8" opacity=".13" fill="none"/></pattern><pattern id="dots" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".7" fill="#171717" opacity=".12"/></pattern></defs>
+  <path d="M0 10 59 3 124 11 189 2 255 10 322 4 389 12 456 3 524 11 591 2 658 10 725 4 792 12 859 3 926 10 994 2 1061 11 1128 4 1194 12 1199 134 1137 142 1070 135 1003 143 936 136 869 142 802 134 735 143 668 136 601 142 534 134 467 143 400 136 333 142 266 134 199 143 132 136 65 142 0 134Z" fill="#e8e1d1"/>
+  <path d="M5 15 66 9 129 16 195 8 261 15 327 10 395 17 461 9 529 16 597 8 663 15 731 10 798 17 865 9 932 15 999 8 1067 16 1134 10 1190 17 1193 125 1134 133 1067 126 1000 135 933 127 866 134 799 126 732 135 665 128 598 134 531 126 464 135 397 128 330 134 263 126 196 135 129 128 62 134 5 126Z" fill="#242622"/>
+  <path d="M13 22H1184V121H13Z" fill="url(#grain)"/>
+  <g transform="rotate(.9 135 73)"><path d="M16 27 65 20 116 26 170 19 220 27 253 21 251 115 200 122 146 115 94 122 42 115 16 122Z" fill="#ffda43"/><path d="M24 29H244V113H24Z" fill="url(#dots)"/><text x="32" y="70" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" fill="#1c1e1a">UNIVERSITY</text><text x="36" y="99" font-family="'Courier New', monospace" font-size="20" font-weight="700" fill="#1c1e1a" letter-spacing="3">EMAIL</text></g>
+  <text x="286" y="87" font-family="'Courier New', monospace" font-size="44" font-weight="700" letter-spacing="-1" fill="#f7f1e4">jayyan.tiongzon@cit.edu</text>
+  <path d="M287 106Q642 101 1002 107" fill="none" stroke="#ffda43" stroke-width="3"/>
+</svg>
