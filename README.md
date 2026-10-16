@@ -10,12 +10,7 @@ This is my little corner for building things, following questions, and figuring 
 
 ![Current interests: coding, web security, game hacking, and red-team labs.](./assets/focus-strip.svg)
 
-| Field notes | |
-| :--- | :--- |
-| **Studying** | Bachelor of Science in Information Technology |
-| **Institution** | Cebu Institute of Technology – University |
-| **Year** | 4th year |
-| **Status** | Building, learning, and debugging |
+<img src="./assets/field-notes.svg" alt="Field notes: Bachelor of Science in Information Technology at Cebu Institute of Technology – University, 4th year. Building, learning, and debugging." width="100%" />
 
 ## 02 / Things I'm building
 

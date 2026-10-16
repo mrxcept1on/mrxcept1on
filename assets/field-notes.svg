@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
+  <title id="title">Field notes / mrxception</title>
+  <desc id="desc">Studying Bachelor of Science in Information Technology at Cebu Institute of Technology – University, 4th year. Status: building, learning, and debugging.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#272724" stroke-opacity=".12" stroke-width="1"/></pattern>
+    <pattern id="dots" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".8" fill="#171717" opacity=".13"/></pattern>
+    <pattern id="fibers" width="117" height="91" patternUnits="userSpaceOnUse"><path d="m8 12 7-2m42 36 10 2m33-30 4 3M15 75l6-3m58 9 8-2m-48-51 3 4" stroke="#514d42" stroke-width=".8" opacity=".12" fill="none"/><circle cx="45" cy="67" r=".8" fill="#181814" opacity=".15"/><circle cx="109" cy="51" r=".65" fill="#181814" opacity=".13"/></pattern>
+  </defs>
+
+  <!-- A torn sheet, with a black print backing visible at the edges. -->
+  <path d="M9 20 62 12 123 21 183 9 247 18 309 12 376 22 443 13 515 20 579 9 645 17 713 10 783 21 849 12 924 20 993 8 1060 19 1129 10 1190 21 1199 611 1143 624 1080 616 1006 629 936 617 871 628 799 618 733 630 665 618 598 629 527 617 464 626 395 617 327 629 255 616 190 627 120 617 57 629 0 616Z" fill="#191a18"/>
+  <path d="M0 8 53 1 112 11 172 0 236 10 300 3 367 13 435 4 504 11 571 0 635 10 704 1 774 12 840 3 914 12 983 0 1052 11 1118 2 1183 13 1193 601 1135 615 1072 605 996 618 927 606 860 617 791 606 723 618 655 607 589 617 519 606 454 615 385 605 317 618 247 606 180 617 111 605 48 618 0 606Z" fill="#e8e2d5"/>
+  <path d="M0 8H1185V611H0Z" fill="url(#fibers)"/>
+
+  <!-- Header: a pasted yellow headline and a small typewritten annotation. -->
+  <g transform="rotate(-1 310 82)">
+    <path d="M29 34 81 27 138 32 202 26 265 33 332 28 396 34 462 27 525 35 590 30 585 128 535 134 470 129 404 136 335 130 272 137 205 129 140 135 75 129 28 134Z" fill="#ffda43"/>
+    <path d="M41 41H575V122H41Z" fill="url(#dots)"/>
+    <text x="50" y="107" font-family="Georgia, 'Times New Roman', serif" font-size="73" font-weight="900" fill="#171816" letter-spacing="-3">FIELD NOTES</text>
+  </g>
+  <text x="758" y="71" font-family="'Courier New', monospace" font-size="21" font-weight="700" fill="#252621">mrxception / student file</text>
+  <path d="M758 88H1155" stroke="#252621" stroke-width="2"/>
+  <text x="758" y="114" font-family="'Courier New', monospace" font-size="16" fill="#5d5c52" letter-spacing="1">LEARNING IN PUBLIC. ONE BUILD AT A TIME.</text>
+
+  <!-- The program fills the larger paper scrap on the left. -->
+  <g transform="rotate(-.7 380 274)">
+    <path d="M27 155 89 148 153 155 221 149 292 157 357 149 424 156 490 150 554 157 622 150 693 158 732 153 729 367 673 375 605 368 538 376 467 369 400 377 333 369 267 376 201 367 135 375 68 368 27 375Z" fill="#f7f2e6"/>
+    <path d="M35 164H722V365H35Z" fill="url(#grid)"/>
+    <path d="M35 164H722V365H35Z" fill="url(#fibers)"/>
+    <text x="58" y="196" font-family="'Courier New', monospace" font-size="20" font-weight="700" fill="#666253" letter-spacing="1">01 / THE COURSE</text>
+    <text x="57" y="247" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="900" fill="#1b1c19" letter-spacing="-1">Bachelor of Science</text>
+    <text x="57" y="293" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="900" fill="#1b1c19" letter-spacing="-1">in Information</text>
+    <text x="56" y="343" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="900" fill="#194df4" letter-spacing="-1">Technology</text>
+  </g>
+
+  <!-- Oversized year sticker. -->
+  <g transform="rotate(1.4 965 273)">
+    <path d="M756 155 806 148 865 154 922 147 981 154 1043 149 1102 156 1159 150 1163 365 1112 373 1051 366 990 375 933 368 870 375 811 369 756 376Z" fill="#222421"/>
+    <text x="789" y="197" font-family="'Courier New', monospace" font-size="20" font-weight="700" fill="#c7c8be" letter-spacing="1">02 / THE CHAPTER</text>
+    <text x="784" y="323" font-family="Arial, Helvetica, sans-serif" font-size="144" font-weight="900" fill="#f4efe2" letter-spacing="-12">04</text>
+    <text x="991" y="283" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" fill="#ffda43">4TH</text>
+    <text x="991" y="317" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" fill="#ffda43">YEAR</text>
+  </g>
+
+  <!-- University name kept large, with the official spelling. -->
+  <g transform="rotate(.5 380 497)">
+    <path d="M29 398 83 392 147 399 215 393 281 400 347 394 415 402 481 394 548 402 614 394 681 401 732 396 731 590 674 598 610 591 544 599 478 591 409 599 342 591 276 599 207 591 141 598 78 591 28 599Z" fill="#f8f3e8"/>
+    <path d="M41 408H720V588H41Z" fill="url(#fibers)"/>
+    <text x="59" y="439" font-family="'Courier New', monospace" font-size="20" font-weight="700" fill="#666253" letter-spacing="1">03 / THE PLACE</text>
+    <text x="57" y="495" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700" fill="#1b1c19" letter-spacing="-1">Cebu Institute of</text>
+    <text x="57" y="548" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700" fill="#1b1c19" letter-spacing="-1">Technology – University</text>
+    <path d="M57 568Q341 562 651 570" fill="none" stroke="#194df4" stroke-width="4"/>
+  </g>
+
+  <!-- Blue status note and a piece of translucent masking tape. -->
+  <g transform="rotate(-1 962 500)">
+    <path d="M758 402 812 395 873 402 932 395 994 403 1055 397 1117 404 1161 398 1164 589 1116 597 1054 590 995 599 932 592 872 599 813 591 758 598Z" fill="#194df4"/>
+    <text x="788" y="441" font-family="'Courier New', monospace" font-size="19" font-weight="700" fill="#e9edff" letter-spacing="1">04 / CURRENT STATUS</text>
+    <text x="786" y="492" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="900" fill="#fff8e8">Building, learning,</text>
+    <text x="786" y="540" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="900" fill="#fff8e8">and debugging.</text>
+    <path d="M789 561H1129" stroke="#c1d1ff" stroke-width="2" stroke-dasharray="6 6"/>
+  </g>
+  <path d="M1081 376 1172 368 1179 414 1088 422Z" fill="#d9d0b9" opacity=".8"/>
+  <path d="m1088 383 75-8m-72 14 75-8m-73 15 75-8" stroke="#eee8d9" stroke-width="1" opacity=".6"/>
+</svg>
